@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-04-20T12:00:00Z",
+  "source": "TSETMC + BrsApi + Tetherland + Nobitex + CoinGecko",
+  "fx": {
+    "usdtToman": 270100,
+    "freeUsdToman": 269020,
+    "gold18kToman": 17850000,
+    "emamiCoinToman": 194500000,
+    "tedpix": 2845200
+  },
+  "crypto": {
+    "BTC": {
+      "usd": 80018.57,
+      "change24h": 0.42
+    },
+    "ETH": {
+      "usd": 2321.75,
+      "change24h": 0.25
+    },
+    "SOL": {
+      "usd": 100.37,
+      "change24h": -0.77
+    },
+    "LUSD": {
+      "usd": 1.004,
+      "change24h": 0.01
+    },
+    "USDT": {
+      "usd": 1.0,
+      "change24h": 0.0
+    }
+  },
+  "stocks": {
+    "وفیروزه": {
+      "price": 581,
+      "change": -2.01
+    },
+    "فپنتا": {
+      "price": 4704,
+      "change": 0.0
+    },
+    "شپدیس": {
+      "price": 1250,
+      "change": -2.95
+    },
+    "کرومیت": {
+      "price": 557,
+      "change": -2.96
+    },
+    "فهامون": {
+      "price": 718,
+      "change": 2.87
+    },
+    "فکور": {
+      "price": 689,
+      "change": 2.99
+    },
+    "فپردیس": {
+      "price": 9677,
+      "change": 2.99
+    },
+    "وسرمایه": {
+      "price": 504,
+      "change": 2.86
+    },
+    "زشک": {
+      "price": 1411,
+      "change": 2.99
+    },
+    "سیمکات": {
+      "price": 4584,
+      "change": 4310.7
+    },
+    "فساپ": {
+      "price": 497,
+      "change": 2.9
+    }
+  }
+}

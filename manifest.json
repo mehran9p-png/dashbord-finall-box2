@@ -1,0 +1,19 @@
+{
+  "name": "ترمینال فرماندهی ثروت | Wealth Terminal Pro V25",
+  "short_name": "WealthPro",
+  "description": "ترمینال حرفه‌ای مدیریت ثروت، بورس تهران، کریپتو، مهندسی وام، استرس‌تست و میز CFO دلار",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "fa-IR",
+  "background_color": "#060913",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23060913'/%3E%3Cpath d='M96 368L208 240l88 72 120-168' stroke='%2310b981' stroke-width='40' stroke-linecap='round' stroke-linejoin='round' fill='none'/%3E%3Ccircle cx='416' cy='144' r='28' fill='%2338bdf8'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
